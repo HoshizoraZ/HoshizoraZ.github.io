@@ -64,7 +64,7 @@ $$
 当微扰使$\dot{a}\gt 0$时，$\dddot{a}\lt 0$，$\ddot{a}=\int\dddot{a}\mathrm{d}t+\ddot{a}_{t=0}&amp;lt;0$，对应不稳定平衡，因此&lt;strong&gt;这样的静态宇宙解是不稳定&lt;/strong&gt;的。&lt;/p&gt;
 &lt;h2 id=&#34;plot-figures&#34;&gt;Plot Figures&lt;/h2&gt;
 &lt;p&gt;已知$H_0 = 73\ \mathrm{km/s/Mpc}$，$\Omega_M = 0.3$，$\Omega_\Lambda = 0.7$，$a_0=1$，令$k=1$，有：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://HoshizoraZ.github.io/media/hoshizora/DATA/MySite/My_Website/content/post/my-article.assets/H_and_omega.png&#34; style=&#34;zoom: 67%;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./my-article.assets/H_and_omega.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;源码：&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-python&#34;&gt;import numpy as np
 import matplotlib.pyplot as plt
